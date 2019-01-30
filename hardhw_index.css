@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+}
+
+table {
+    width: 18%;
+    table-layout: auto;
+    float: right;
+    margin-right: 14%;
+    padding: 5x;
+    margin-top: 1%;
+
+}
+
+table, tr , td {
+    background-color: white;
+    text-align: center;
+
+}
+
+td {
+    padding: 15px;
+    border-right: 1px solid white;
+    
+}
+
+a:link {
+    font-size: 18px;
+    text-decoration: none;
+    color:grey;
+
+}
