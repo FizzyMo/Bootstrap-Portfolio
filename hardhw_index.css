@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 
-table {
+table.links {
     width: 18%;
     table-layout: auto;
     float: right;
@@ -12,7 +12,17 @@ table {
 
 }
 
-table, tr , td {
+div {
+    border: 1px solid pink;
+    background: pink;
+    margin-left: 23%;
+    width: 9%;
+    text-align: center;
+    clear: both;
+    padding: 1%;
+}
+
+table, td {
     background-color: white;
     text-align: center;
 
